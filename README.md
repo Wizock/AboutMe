@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizock&label=Profile%20views&color=0e75b6&style=flat" alt="wizock" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wizock" alt="wizock" /></a> </p>
+[![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](paypal.me/RohaanAhmed03)  
+[![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](paypal.me/RohaanAhmed03)  
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
