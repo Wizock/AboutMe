@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm ApartmentAngels</h1>
 <h3 align="center">A passionate Full Stack Developer, ML and DL Engineer.<br>Part-Time Entreprenuer and Full-time CEO of Fluantt.co from Australia</h3>
-<p align='left'>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=wizock&label=Profile%20views&color=0e75b6&style=flat" alt="wizock" /> </p>
-
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=wizock&label=Profile%20views&color=0e75b6&style=flat" alt="wizock" /> 
+<a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="wizock"   /></a> 
+  <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="wizock" /></a>    
 </p>
 
 - 🔭 I’m currently working on Fluantt (*currently private 🤫🤫)
