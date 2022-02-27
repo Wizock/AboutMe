@@ -47,12 +47,9 @@
 	<a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> </a>
 </p><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizock&show_icons=true&locale=en&layout=compact" alt="wizock" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizock&show_icons=true&locale=en&layout=compact" alt="wizock" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&theme=merko" alt="wizock" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&locale=en" alt="wizock" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizock&" alt="wizock" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizock&show_icons=true&locale=en&layout=compact&theme=tokyonight " alt="wizock" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&theme=tokyonight " alt="wizock" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizock&langs_count=10&theme=tokyonight " alt="wizock" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizock&theme=tokyonight" alt="wizock" />
+</p>
