@@ -49,8 +49,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizock&show_icons=true&locale=en&layout=compact" alt="wizock" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizock&show_icons=true&locale=en&layout=compact" alt="wizock" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=federico101&show_icons=true&theme=merko" alt="wizock" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&theme=merko" alt="wizock" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&locale=en" alt="wizock" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizock&" alt="wizock" /></p>
