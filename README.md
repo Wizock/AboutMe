@@ -48,5 +48,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&theme=tokyonight " alt="wizock" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizock&langs_count=10&theme=tokyonight " alt="wizock" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizock&theme=tokyonight" alt="wizock" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizock&repo=Wizock&theme=tokyonight" />
 </p>
