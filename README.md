@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **APIs, Machine Learning, File Compression, Handwriting Recognition**
 
+- ✌️ Currently grinding Blitz.js (which is really typescript)
+
 - 💬 Ask me about **Flask, Django, Python, C++, OOP, Software Arch and basically anything**
 
 <br><h1 align="center">Connect with me:</h1>
