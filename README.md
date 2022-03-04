@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm ApartmentAngels</h1>
 <h3 align="center">A passionate Full Stack Developer, ML and DL Engineer.<br>Part-Time Entreprenuer and Full-time CEO of Fluantt.co from Australia</h3>
 <p align='center'>
@@ -45,9 +46,8 @@
 	<a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> </a>
 </p><br>
 
-<p align="center">
+<p  style="flex" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizock&show_icons=true&locale=en&layout=compact&theme=tokyonight " alt="wizock" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&theme=tokyonight " alt="wizock" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizock&langs_count=10&theme=tokyonight " alt="wizock" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizock&theme=tokyonight" alt="wizock" />
 </p>
