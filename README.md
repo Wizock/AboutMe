@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **APIs, Machine Learning, File Compression, Handwriting Recognition**
 
-- ✌️ Currently grinding Blitz.js (which is really typescript)
+- ✌️ Currently grinding RedWood.js (its really just flask but javascript) 
 
 - 💬 Ask me about **Flask, Django, Python, C++, OOP, Software Arch and basically anything**
 
