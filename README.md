@@ -7,9 +7,9 @@
   <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="wizock" /></a>    
 </p>
 
-- 🔭 I’m currently working on Fluantt (*currently private 🤫🤫)
+- 🔭 I’m currently working on Fluantt (currently private 🤫🤫)
 
-- 🌱 I’m currently learning ** Kakfa, Redis, Machine Learning, File Compression, Handwriting Recognition**
+- 🌱 I’m currently learning **Kakfa, Redis, Machine Learning, File Compression, Handwriting Recognition**
 
 - ✌️ Currently grinding Nuclei. A compression based home file storage indexer with NAS support
 
