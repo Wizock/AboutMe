@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on Fluantt (*currently private 🤫🤫)
 
-- 🌱 I’m currently learning **APIs, Machine Learning, File Compression, Handwriting Recognition**
+- 🌱 I’m currently learning ** Kakfa, Redis, Machine Learning, File Compression, Handwriting Recognition**
 
-- ✌️ Currently grinding RedWood.js (its really just flask but javascript) 
+- ✌️ Currently grinding Nuclei. A compression based home file storage indexer with NAS support
 
 - 💬 Ask me about **Flask, Django, Python, C++, OOP, Software Arch and basically anything**
 
