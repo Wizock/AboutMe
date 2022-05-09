@@ -13,7 +13,7 @@
 
 - ✌️ Currently grinding Nuclei. A compression based home file storage indexer with NAS support
 
-- 💬 Ask me about **Flask, Django, Python, C++, OOP, Software Arch and basically anything**
+- 💬 The innovation shall continue after the 30th of may 
 
 <br><h1 align="center">Connect with me:</h1>
 <p align="center">
