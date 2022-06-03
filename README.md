@@ -6,23 +6,24 @@
 <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="wizock"   /></a> 
   <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="wizock" /></a>    
 </p>
+<br><h1 align="center">What Im Up To</h1>
 
-- 🔭 I’m currently working on Fluantt (currently private 🤫🤫)
+- 🔭 I’m currently working on Nuclei. A compression based home file storage indexer with NAS support
 
 - 🌱 I’m currently learning **Kakfa, Redis, Machine Learning, File Compression, Handwriting Recognition**
 
-- ✌️ Currently grinding Nuclei. A compression based home file storage indexer with NAS support
+- ✌️ Currently grinding UNO. A native cross platform for frontend.
 
 - 💬 The innovation shall continue after the 30th of may 
 
-<br><h1 align="center">Connect with me:</h1>
+<br><h1 align="center">Connect With Me:</h1>
 <p align="center">
 <a href="https://instagram.com/rohaanisallreadydead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohaanisallreadydead" height="60" width="70" /></a>
 <a href="https://www.youtube.com/channel/UCY6KjiDALz24_BvIHkwWD6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apartment angels //firestarters" height="60" width="70" /></a>
 <a href="https://discord.gg/tgfkqmtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="$oRonny#9954" height="60" width="70" /></a>
 </p><br>
 
-<h1 align="center">Languages and Tools:</h3>
+# <h1 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60"/> </a> 
