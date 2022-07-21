@@ -8,13 +8,12 @@
 </p>
 <br><h1 align="center">What Im Up To</h1>
 
-- 🔭 I’m currently working on Nuclei. A compression based home file storage indexer with NAS support
-
+- 🔭 I’m currently working on Nuclei. A compression based media suite.  
 - 🌱 I’m currently learning **Kakfa, Redis, Machine Learning, File Compression, Handwriting Recognition**
 
-- ✌️ Currently grinding UNO. A native cross platform for frontend.
+- ✌️ Currently grinding flutter. A native cross platform for frontend.
 
-- 💬 The innovation shall continue after the 30th of may 
+- 💬 Going to take a academic hiatus, no innovations until 20th Aug :) 
 
 <br><h1 align="center">Connect With Me:</h1>
 <p align="center">
