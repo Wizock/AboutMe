@@ -44,7 +44,7 @@ Untill then, Na shledanou
 </p><br>
 
 <p  style="flex" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wizock&langs_count=12&theme=tokyonight" alt="wizock" />
+    
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wizock&show_icons=true&theme=tokyonight" alt="wizock" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizock&theme=tokyonight" alt="wizock" />
 </p>
