@@ -6,11 +6,7 @@
 <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="wizock"   /></a> 
   <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="wizock" /></a>    
 </p>
-<br><h1 align="center">What Im Up To</h1>
 
-Its been fun, but im done writting code :)
-Maybe when the time is right, we will meet again,
-Untill then, Na shledanou
 
 <br><h1 align="center">Connect With Me:</h1>
 <p align="center">
