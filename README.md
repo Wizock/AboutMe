@@ -10,7 +10,7 @@
 
 <br><h1 align="center">Connect With Me:</h1>
 <p align="center">
-<a href="https://instagram.com/rohaanisallreadydead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohaanisallreadydead" height="60" width="70" /></a>
+<a href="https://instagram.com/ronnyisallreadydead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohaanisallreadydead" height="60" width="70" /></a>
 <a href="https://www.youtube.com/channel/UCY6KjiDALz24_BvIHkwWD6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apartment angels //firestarters" height="60" width="70" /></a>
 <a href="https://discord.gg/tgfkqmtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="$oRonny#9954" height="60" width="70" /></a>
 </p><br>
