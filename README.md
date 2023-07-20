@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm ApartmentAngels</h1>
 <h3 align="center">A passionate Full Stack Developer, multi-paradigm software engineer<br>Part-Time Entreprenuer and Full-time CEO of multiple startups from Australia</h3>
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=wizock&label=Profile%20views&color=0e75b6&style=flat" alt="wizock" /> 
-<a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="wizock"   /></a> 
-  <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="wizock" /></a>    
+  <img src="https://komarev.com/ghpvc/?username=crushr3sist&label=Profile%20views&color=0e75b6&style=flat" alt="crushr3sist" /> 
+<a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="crushr3sist"   /></a> 
+  <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="crushr3sist" /></a>    
 </p>
 
 
@@ -40,6 +40,6 @@
 </p><br>
 
 <p  style="flex" align="center">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wizock&show_icons=true&theme=tokyonight" alt="wizock" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizock&theme=tokyonight" alt="wizock" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crushr3sist&show_icons=true&theme=tokyonight" alt="crushr3sist" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crushr3sist&theme=tokyonight" alt="crushr3sist" />
 </p>
