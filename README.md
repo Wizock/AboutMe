@@ -1,16 +1,17 @@
 
-<h1 align="center">Hi 👋, I'm ApartmentAngels</h1>
-<h3 align="center">A passionate Full Stack Developer, multi-paradigm software engineer<br>Part-Time Entreprenuer and Full-time CEO of multiple startups from Australia</h3>
+<h1 align="center">Hi 👋, I'm Ronny</h1>
+<h3 align="center">A passionate Full Stack Developer ready to get involved into professional development. Very excited to met new people and welcome opportunities</h3>
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=crushr3sist&label=Profile%20views&color=0e75b6&style=flat" alt="crushr3sist" /> 
 <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="crushr3sist"   /></a> 
   <a href="https://paypal.me/RonnyFromDisc?country.x=US&locale.x=en_AU"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="crushr3sist" /></a>    
 </p>
 
+<br>
 
-<br><h1 align="center">Connect With Me:</h1>
+<h1 align="center">Connect With Me:</h1>
 <p align="center">
-<a href="https://instagram.com/ronnyisallreadydead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohaanisallreadydead" height="60" width="70" /></a>
+<a href="https://instagram.com/ronnyisalreadydead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohaanisallreadydead" height="60" width="70" /></a>
 <a href="https://www.youtube.com/channel/UCY6KjiDALz24_BvIHkwWD6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apartment angels //firestarters" height="60" width="70" /></a>
 <a href="https://discord.gg/tgfkqmtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="$oRonny#9954" height="60" width="70" /></a>
 </p><br>
@@ -37,7 +38,8 @@
 	<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> 
 	<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a> 
 	<a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> </a>
-</p><br>
+</p>
+<br>
 
 <p  style="flex" align="center">
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crushr3sist&show_icons=true&theme=tokyonight" alt="crushr3sist" />
