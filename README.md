@@ -44,4 +44,5 @@
 <p  style="flex" align="center">
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crushr3sist&show_icons=true&theme=tokyonight" alt="crushr3sist" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crushr3sist&theme=tokyonight" alt="crushr3sist" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crushr3sist&theme=tokyonight&layout=compact&langs_count=7" alt="crushr3sist" />
 </p>
