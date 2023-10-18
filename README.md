@@ -21,7 +21,7 @@
 
 
 <p  style="flex" align="center">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crushr3sist&show_icons=true&theme=tokyonight&fweafwef=fewafrwfeoaiwehfo" alt="crushr3sist" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crushr3sist&theme=tokyonight&fweafwef=fewafrwfeoaiwehfo" alt="crushr3sist" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crushr3sist&show_icons==true&theme=tokyonight&layout=compact&langs_count=7&fweafwef=fewafrwfeoaiwehfo" alt="crushr3sist" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crushr3sist&show_icons=true&theme=tokyonight&fewafrwfeoaiwehfo" alt="crushr3sist" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crushr3sist&theme=tokyonight&fweafweffewafrwfeoaiwehfo" alt="crushr3sist" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crushr3sist&show_icons==true&theme=tokyonight&layout=compact&langs_count=7&fweafweffewafrwfeoaiwehfo" alt="crushr3sist" />
 </p>
